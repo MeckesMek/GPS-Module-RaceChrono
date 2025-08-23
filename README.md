@@ -1,2 +1,2 @@
-# WIFI-GPS-Module-For-RaceChrono
-Diy WIFI GPS Module For RaceChrono
+# GPS-Module-For-RaceChrono
+GPS Module For RaceChrono
